@@ -1,0 +1,15 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.container {
+    width: 50%;
+    min-height: 100vh;
+    margin: 0 auto;
+    position: relative;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+}
